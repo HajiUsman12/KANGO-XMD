@@ -11,12 +11,12 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your Adiza session id here; must start with QUEEN-ADIZA~",
+      "description": "KANGO~8rtFmCgA#2mOr1LygXKuh-zLz4gNHjmsyT2pdRBQDRha8zf9owx4",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "Hassan-Bot",
       "value": "Adiza-Bot",
       "required": false
     },
